@@ -1003,10 +1003,10 @@ video {
 }
 
 body {
-  background-image: url(/img/bg-tablet-pattern.svg);
+  background-image: url(../img/bg-tablet-pattern.svg);
   background-repeat: no-repeat;
   background-size: 800px;
-  background-position: 95% 15%;
+  background-position: 95% 5%;
 }
 
 @media (max-width: 768px) {
@@ -1063,7 +1063,7 @@ body {
 }
 
 section:nth-child(5) {
-  background-image: url(/img/bg-simplify-section-desktop.svg);
+  background-image: url(../img/bg-simplify-section-desktop.svg);
   background-repeat: no-repeat;
   opacity: 1;
 }
